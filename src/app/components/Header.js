@@ -1,4 +1,4 @@
-import HeaderBg from "./HeaderBg";
+// import HeaderBg from "./HeaderBg";
 
 export default function Header() {
   return (
@@ -53,7 +53,7 @@ export default function Header() {
           </div>
         </div>
       </nav>
-      <HeaderBg />
+      {/* <HeaderBg /> */}
     </>
   );
 }

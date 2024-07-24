@@ -1,5 +1,4 @@
-import styles from "../styles/Style.module.css";
-
+import styles from "../Style.module.css";
 export default function Project({ image, title, description }) {
   return (
     <>

@@ -1,4 +1,4 @@
-import styles from "../styles/Style.module.css";
+import styles from "../Style.module.css";
 import Project from "./Project";
 
 export default function Portflio() {
